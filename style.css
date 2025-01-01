@@ -30,7 +30,7 @@ body {
   font-size: 13px;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1024px) {
   .primary-btn {
     height: 48px;
     font-size: 16px;
